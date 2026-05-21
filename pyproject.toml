@@ -1,0 +1,12 @@
+[project]
+name = "compositional-active-inference"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "discopy>=1.2.2",
+    "jax>=0.10.1",
+    "optax>=0.2.8",
+    "pyagrum>=2.3.2",
+    "pytest>=9.0.3",
+]
